@@ -1,5 +1,5 @@
-#Problème 1
-#Écrire 3 fonctions qui calculent la somme des nombres dans une liste utilisant 3 façons différentes (while, each, recursion en ruby)
+# Problème 1
+# Écrire 3 fonctions qui calculent la somme des nombres dans une liste utilisant 3 façons différentes (while, each, recursion en ruby)
 
 list = [1, 67, 34, 25, 9, 76, 3]
 
